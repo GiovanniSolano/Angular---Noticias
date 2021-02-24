@@ -1,3 +1,10 @@
+# Aplicación en Firebase
+
+https://noticias-9d156.web.app/
+
+La aplicación funciona correctamente de forma local pero al pasarla
+a un server por cuestiones de la API no es posible mostrar los resultados.
+
 # Noticias
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
